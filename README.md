@@ -20,6 +20,6 @@ There is also a submit form with a hardcoded AWS API URL in there. This needs to
 
 Everything else is pretty straightforward. 
 
-To my knowledge, there aren't many up to date example repos showing how to make a payment from MetaMask using Ethereum or an ERC-20 coin. You can consult this repo to learn how.
+To my knowledge, there aren't many up to date example repos showing how to make a payment from MetaMask using Ethereum or an ERC-20 coin. You can consult this repo to learn how. You can also modify it for your own needs.
 
 Major libraries used are: axios, Google's Material UI, Web3, ethers, react-router-dom.
