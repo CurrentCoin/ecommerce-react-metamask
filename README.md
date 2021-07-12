@@ -5,6 +5,8 @@ Using this app, you can send payments from your MetaMask wallet, and pay in Ethe
 This app is written in React and uses hooks. If you know React it should be easy to understand. 
 
 It doesn't pull from a database (doesn't need one) and only communicates with an API and with the Ethereum network, one way, sending data.
+
+You can run this by typing 'yarn install' and then 'yarn run'.
      	 
 ## Comments
 
