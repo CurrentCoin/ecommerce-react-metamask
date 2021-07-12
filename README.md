@@ -7,6 +7,10 @@ This app is written in React and uses hooks. If you know React it should be easy
 It doesn't pull from a database (doesn't need one) and only communicates with an API and with the Ethereum network, one way, sending data.
 
 You can run this git cloning the repo, then typing 'yarn install' and 'yarn start'.
+
+You can see a live version of it here.
+
+https://www.ccoin.live/
      	 
 ## Comments
 
