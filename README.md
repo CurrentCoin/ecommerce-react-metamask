@@ -8,7 +8,9 @@ It doesn't pull from a database (doesn't need one) and only communicates with an
 
 You can run this git cloning the repo, then typing 'yarn install' and 'yarn start'.
 
-Note that, if you do complete the user flow for payment, this is not on testnet; you'll be sending real ETH or CUR to the hardcoded address as payment for digital services. If you don't want to do that, change the hardcoded address, or simply don't authorize payment when requested to in MetaMask.
+Note that, if you do complete the user flow for payment, this is not on testnet; you'll be sending real ETH or CUR to the hardcoded address as payment for digital services. 
+
+If you don't want to do that, change the hardcoded address, or simply don't authorize payment when requested to in MetaMask.
      	 
 ## Comments
 
