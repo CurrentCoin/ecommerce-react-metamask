@@ -2,6 +2,8 @@ This project is an ecommerce site, integrated with MetaMask. The code is free an
 
 Using this app, you can send payments from your MetaMask wallet, and pay in Ethereum or CurrentCoin.
 
+This app is written in React and uses hooks. If you know React it should be easy to understand. It doesn't pull from a database (doesn't need one) and only communicates with an API and with the Ethereum network, one way, sending data.
+     	 
 ## Comments
 
 The crypto addresses to send to are hardcoded and should be changed. The amounts are hardcoded also and should be changed too. 
