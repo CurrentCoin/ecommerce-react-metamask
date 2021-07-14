@@ -1,4 +1,4 @@
-This project is an ecommerce site, integrated with MetaMask. The code is free and available for you to remix, adapt, reuse, under the terms of the MIT license, shown below.
+This project is an ecommerce site, integrated with MetaMask. 
 
 Using this app, you can send payments from your MetaMask wallet, and pay in Ethereum or CurrentCoin.
 
@@ -11,6 +11,8 @@ You can run this git cloning the repo, then typing 'yarn install' and 'yarn star
 You can see a live version of it here.
 
 https://www.ccoin.live/
+
+The code is free and available for you to remix, adapt, and reuse, under the terms of the MIT license, shown below.
      	 
 ## Comments
 
