@@ -1,4 +1,4 @@
-This project is an ecommerce site, integrated with MetaMask. The code is free and available for you to remix, adapt, reuse.
+This project is an ecommerce site, integrated with MetaMask. The code is free and available for you to remix, adapt, reuse, under the terms of the MIT license, shown below.
 
 Using this app, you can send payments from your MetaMask wallet, and pay in Ethereum or CurrentCoin.
 
